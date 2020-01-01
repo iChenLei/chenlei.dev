@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
   title: '雷先生',
   tagline: '雷先生是一个喜欢学习的程序员，在这里与你分享我觉得值得分享的事情！',
@@ -87,4 +89,5 @@ module.exports = {
       },
     ],
   ],
+  plugins: [path.resolve(__dirname, 'src/baiduGAPlugin')]
 };
