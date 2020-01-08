@@ -17,10 +17,10 @@ module.exports = function(context) {
             innerHTML: `
                 var _hmt = _hmt || [];
                 (function() {
-                var hm = document.createElement("script");
-                hm.src = "https://hm.baidu.com/hm.js?ea30cb0c0491f188c43b651c96483f57";
-                var s = document.getElementsByTagName("script")[0]; 
-                s.parentNode.insertBefore(hm, s);
+                  var hm = document.createElement("script");
+                  hm.src = "https://hm.baidu.com/hm.js?2a119ab67f6599ee7a1f013ffe41460f";
+                  var s = document.getElementsByTagName("script")[0]; 
+                  s.parentNode.insertBefore(hm, s);
                 })();
             `,
           },
