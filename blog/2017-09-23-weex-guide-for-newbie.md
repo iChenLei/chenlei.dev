@@ -4,7 +4,7 @@ title: 写给安卓开发工程师的weex开发指南，iOS工程师可以参考
 author: YunLei
 author_title: Pinduoduo FE Developer
 author_url: https://github.com/ichenlei
-author_image_url: https://avatars1.githubusercontent.com/u/14012511
+author_image_url: https://testimg.yangkeduo.com/pdd_images/2020-03-07/a70bfa6a-3d27-4e46-b36b-2ee70f53b14f.jpg
 tags: [weex]
 ---
 

@@ -4,7 +4,7 @@ title: 【译】Flutter是否是跨平台移动app开发的最佳方案？
 author: YunLei
 author_title: Pinduoduo FE Developer
 author_url: https://github.com/ichenlei
-author_image_url: https://avatars1.githubusercontent.com/u/14012511
+author_image_url: https://testimg.yangkeduo.com/pdd_images/2020-03-07/a70bfa6a-3d27-4e46-b36b-2ee70f53b14f.jpg
 tags: [flutter, dart]
 ---
 [原文链接在此](https://10clouds.com/blog/flutter-cross-platform-apps/)
